@@ -1,0 +1,21 @@
+name: cfm_mppi
+channels:
+  - pytorch
+  - nvidia
+  - conda-forge
+dependencies:
+  - python=3.11
+  - pip=23.2.1
+  - pip:
+    - numpy
+    - torch
+    - einops
+    - matplotlib
+    - trajdata
+    - ipdb
+    - ipykernel
+    - cvxpy
+    - torchmetrics
+    - wandb
+    - jax
+    - ipywidgets
