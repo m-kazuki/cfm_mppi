@@ -41,7 +41,7 @@ We provide Jupyter notebook demos for different dynamics models:
 
 ## Pre-trained Models and Datasets
 
-For quick evaluation, download the pre-trained weights and datasets from [Google Drive](https://drive.google.com/drive/folders/1896jmXMYk36yYdmh8XZ16pq0Bm0JGZpG?usp=sharing) and organize them into the following directory structure:
+For quick evaluation, download the pre-trained weights and datasets from [Google Drive](https://drive.google.com/drive/folders/1gggsHGnLyh_rsaEw91EaqIO8I4Asqh64?usp=sharing) and organize them into the following directory structure:
 
 - `dataset/` &rarr; `./dataset/`
 - `checkpoint.pt` &rarr; `./output_dir/cfm_transformer/checkpoint.pth`
